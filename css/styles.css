@@ -1,0 +1,21 @@
+#info {
+    /* position: absolute; */
+    margin-left:auto;
+    margin-right:0;
+    background: white;
+    height: 100vh;
+    width: 20%;
+}
+
+#game {
+  width:100%;
+  height: 100vh;
+  background: black;
+  color: white;
+  margin: 0px, 0px, 0px, 0px;
+  font-size: 60px;
+  text-align: center;
+  vertical-align: middle;
+  /* padding-top: 20vh; */
+  line-height: 90px;
+}
